@@ -1,0 +1,1 @@
+El gitignore que cree sirve para ignorar el archivo nombre.txt
